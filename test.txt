@@ -1,1 +1,8 @@
 salam khayala
+
+necesen nevareyox?
+
+kodlar yaziram a= bx+d 
+def omeqa():
+
+
